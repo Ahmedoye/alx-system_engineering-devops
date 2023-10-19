@@ -8,3 +8,6 @@ This file executes a script that displays the list of content of the current wor
 
 ### [2-bring_me_home](2-bring_me_home)
 This file executes a script that changes the working directory to the user's home directory
+
+### [3-listfiles](3-listfiles)
+This files executes a script that displays the current directory contents in a long format
