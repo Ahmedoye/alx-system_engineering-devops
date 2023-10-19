@@ -10,4 +10,7 @@ This file executes a script that displays the list of content of the current wor
 This file executes a script that changes the working directory to the user's home directory
 
 ### [3-listfiles](3-listfiles)
-This files executes a script that displays the current directory contents in a long format
+This file executes a script that displays the current directory contents in a long format
+
+### [4-listmorefiles](4-listmorefiles)
+This file executes a script that displays current directory contents, including hidden files
