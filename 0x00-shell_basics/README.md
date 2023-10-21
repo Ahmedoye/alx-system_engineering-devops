@@ -14,3 +14,6 @@ This file executes a script that displays the current directory contents in a lo
 
 ### [4-listmorefiles](4-listmorefiles)
 This file executes a script that displays current directory contents, including hidden files
+
+### [5-listfilesdigitonly](5-listfilesdigitonly)
+This file executes a script that displays current directory content with user and group ID with hidden files in a long format
