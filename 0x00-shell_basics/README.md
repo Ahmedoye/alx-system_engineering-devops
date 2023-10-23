@@ -26,3 +26,6 @@ This file executes a script that moves a file between directories
 
 ### [8-firstdelete](8-firstdelete)
 This file executes a script that deletes the betty file
+
+### [9-firstdirdeletion](9-firstdirdeletion)
+This file executes a script that deletes a directory
