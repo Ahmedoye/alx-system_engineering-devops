@@ -23,3 +23,6 @@ This file executes a script that creates a directory
 
 ### [7-movethatfile](7-movethatfile)
 This file executes a script that moves a file between directories
+
+### [8-firstdelete](8-firstdelete)
+This file executes a script that deletes the betty file
