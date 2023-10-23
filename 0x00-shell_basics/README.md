@@ -20,3 +20,6 @@ This file executes a script that displays current directory content with user an
 
 ### [6-firstdirectory](6-firstdirectory)
 This file executes a script that creates a directory
+
+### [7-movethatfile](7-movethatfile)
+This file executes a script that moves a file between directories
