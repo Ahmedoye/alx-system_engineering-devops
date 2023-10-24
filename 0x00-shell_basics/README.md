@@ -35,3 +35,6 @@ This file executes a script that changes the working directory to the previous o
 
 ### [11-lists](11-lists)
 This file executes a script that lists all files in the current directory and parent directory and boot directoryin long format
+
+### [12-file_type](12-file_type)
+This file executes a script that prints the type of file
