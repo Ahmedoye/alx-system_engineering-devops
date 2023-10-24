@@ -32,3 +32,6 @@ This file executes a script that deletes a directory
 
 ### [10-back](10-back)
 This file executes a script that changes the working directory to the previous one
+
+### [11-lists](11-lists)
+This file executes a script that lists all files in the current directory and parent directory and boot directoryin long format
