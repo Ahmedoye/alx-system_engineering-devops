@@ -38,3 +38,6 @@ This file executes a script that lists all files in the current directory and pa
 
 ### [12-file_type](12-file_type)
 This file executes a script that prints the type of file
+
+### [13-symbolic_link](13-symbolic_link)
+This file executes a script that creates a symbolic link to a file
